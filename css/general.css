@@ -1,4 +1,9 @@
 html {
   background-color: pink;
 }
+
+body > .container {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
 /*# sourceMappingURL=general.css.map */
